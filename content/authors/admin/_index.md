@@ -2,7 +2,7 @@
 title: Hadley Mitchell
 role: Manager, Data Scientist at Charles Schwab | Pythonista | Avid Learner |
   MSBA UTD
-avatar_filename: https://media-exp1.licdn.com/dms/image/C4E03AQEIkrZGcbkVsQ/profile-displayphoto-shrink_200_200/0/1517052215228?e=1631750400&v=beta&t=qkqR_nbopzR8B8rV6EP6LtxWB2jYoSYfHAs84rfHfC0
+avatar_filename: hadley.jpg
 bio: ""
 interests:
   - Back to the Future
