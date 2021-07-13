@@ -24,24 +24,17 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
-organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+organizations: []
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Master's
+      institution: Another school in Texas
+      year: 2019
+    - course: Bachelors
+      institution: Some School in Texas
+      year: 2016
 email: ""
 superuser: true
 highlight_name: false
 ---
-My favorite baseball team is the Colorado Rockies. 
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+My favorite baseball team is the Colorado Rockies.
